@@ -11,7 +11,7 @@
       "contain_milk": "none",
       "avg_calories": 200,
       "cuisine": "thai",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%A1.jpeg"
     
     },
     {
@@ -26,7 +26,7 @@
       "contain_milk": "none",
       "avg_calories": 515,
       "cuisine": "chinese",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%81%E0%B9%88.webp"
     },
      {
       "name":  "ข้าวหมูแดง",
@@ -40,7 +40,7 @@
       "contain_milk": "none",
       "avg_calories": 438,
       "cuisine": "chinese",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%81%E0%B8%94%E0%B8%87.jpg"
     },
     {
      "name":  "ข้าวผัดกระเพราไก่",
@@ -54,7 +54,7 @@
      "contain_milk": "none",
      "avg_calories": 554,
      "cuisine": "thai",
-     "uri":
+     "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%81%E0%B9%88.jpg"
    },
     {
      "name":  "ผัดผักบุ้ง",
@@ -68,7 +68,7 @@
      "contain_milk": "none",
      "avg_calories": 210,
      "cuisine": "chinese",
-     "uri":
+     "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B8%9A%E0%B8%B8%E0%B9%89%E0%B8%87.webp"
     },
     {
       "name":  "แกงจืดเต้าหู้หมูสับ",
@@ -82,7 +82,7 @@
       "contain_milk": "not-contain",
       "avg_calories": null,
       "cuisine": "chinese",
-      "uri":
+      "uri":"https://github.com/sscpla/mobileApp/blob/main/assets/food/%E0%B9%81%E0%B8%81%E0%B8%87%E0%B8%88%E0%B8%B7%E0%B8%94%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%B9%E0%B9%89%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B8%AA%E0%B8%B1%E0%B8%9A.jpg"
     },
     {
       "name":  "ผัดไท",
@@ -96,7 +96,7 @@
       "contain_milk": "possible",
       "avg_calories": null,
       "cuisine": "thai",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%97%E0%B8%A2.jpg"
     },
     {
       "name":  "เต้าหู้ทรงเครื่อง",
@@ -110,7 +110,7 @@
       "contain_milk": "possible",
       "avg_calories": null,
       "cuisine": "chinese",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%B9%E0%B9%89%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87.webp"
     },
     {
       "name":  "ต้มยำกุ้ง",
@@ -124,7 +124,7 @@
       "contain_milk": "contain",
       "avg_calories": null,
       "cuisine": "thai",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%95%E0%B9%89%E0%B8%A1%E0%B8%A2%E0%B8%B3%E0%B8%81%E0%B8%B8%E0%B9%89%E0%B8%87.jpg"
     },
     {
       "name":  "ไข่พะโล้",
@@ -138,7 +138,7 @@
       "contain_milk": "not-contain",
       "avg_calories": null,
       "cuisine": "chinese",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%9E%E0%B8%B0%E0%B9%82%E0%B8%A5%E0%B9%89.jpg"
     },
     {
       "name":  "ต้มยำปลากรอบ",
@@ -152,7 +152,7 @@
       "contain_milk": "contain",
       "avg_calories": null,
       "cuisine": "thai",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%95%E0%B9%89%E0%B8%A1%E0%B8%A2%E0%B8%B3%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A.jpg"
     },
     {
       "name":  "แกงจืดรวมมิตรทะเล",
@@ -166,7 +166,7 @@
       "contain_milk": "not-contain",
       "avg_calories": null,
       "cuisine": "thai",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B9%81%E0%B8%81%E0%B8%87%E0%B8%88%E0%B8%B7%E0%B8%94%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5.jpg"
     },
     {
       "name":  "ข้าวต้มปลา",
@@ -180,7 +180,7 @@
       "contain_milk": "not-contain",
       "avg_calories": null,
       "cuisine": "thai",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%95%E0%B9%89%E0%B8%A1%E0%B8%9B%E0%B8%A5%E0%B8%B2.jpg"
     },
     {
       "name":  "ยำปลาดุกฟู",
@@ -194,7 +194,7 @@
       "contain_milk": "not-contain",
       "avg_calories": null,
       "cuisine": "thai",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%A2%E0%B8%B3%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%B8%E0%B8%81%E0%B8%9F%E0%B8%B9.jpg"
     },
     {
       "name":  "ทอดมันปลา",
@@ -208,7 +208,7 @@
       "contain_milk": "possible",
       "avg_calories": null,
       "cuisine": "thai",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%97%E0%B8%AD%E0%B8%94%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%A5%E0%B8%B2.jpg"
     },
     {
       "name":  "น้ำพริกอ่อง",
@@ -222,7 +222,7 @@
       "contain_milk": "possible",
       "avg_calories": null,
       "cuisine": "thai",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%87.png"
     },
     {
       "name":  "หูฉลาม",
@@ -236,7 +236,7 @@
       "contain_milk": "not-contain",
       "avg_calories": null,
       "cuisine": "chinese",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%AB%E0%B8%B9%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%A1.webp"
     },
     {
       "name":  "ขนมจีนน้ำยา",
@@ -250,7 +250,7 @@
       "contain_milk": "contain",
       "avg_calories": null,
       "cuisine": "chinese",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A2%E0%B8%B2.jpg"
     },
     {
       "name":  "ห่อหมกปู",
@@ -264,7 +264,7 @@
       "contain_milk": "contain",
       "avg_calories": null,
       "cuisine": "chiness",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%AB%E0%B9%88%E0%B8%AD%E0%B8%AB%E0%B8%A1%E0%B8%81%E0%B8%9B%E0%B8%B9.webp"
     },
     {
       "name":  "ข้าวผัดกระเพราหมู",
@@ -277,7 +277,7 @@
       "contain-nut": "none",
       "contain-milk": "none",
       "cuisine": "thai",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%81%E0%B9%88.jpg"
     },
     {
       "name":  "แกงเขียวหวาน",
@@ -291,7 +291,7 @@
       "contain-milk": "not-contain",
       "avg_calories": null,
       "cuisine": "thai",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B9%81%E0%B8%81%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99.webp"
     },
     {
       "name":  "ข้าวขาหมู",
@@ -305,7 +305,7 @@
       "contain-milk": "none",
       "avg_calories": null,
       "cuisine": "chiness",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%82%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B9.webp"
     },{
       "name":  "ข้าวผัดหมู",
       "eng_name": "Fired rice with pork",
@@ -318,7 +318,7 @@
       "contain-milk": "none",
       "avg_calories": null,
       "cuisine": "chiness",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9.jpg"
     },
    {
       "name":  "ยำปลากระป๋อง",
@@ -332,6 +332,6 @@
       "contain-milk": "not-contain",
       "avg_calories": null,
       "cuisine": "thai",
-      "uri":
+      "uri":"https://raw.githubusercontent.com/sscpla/mobileApp/main/assets/food/%E0%B8%A2%E0%B8%B3%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B9%8B%E0%B8%AD%E0%B8%87.jpg"
     }
   ]
