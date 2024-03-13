@@ -19,6 +19,10 @@ import Greeting from './components/Greeting';
 import Resort from './screens/week3/Resort';
 import { PaperProvider } from 'react-native-paper';
 import TestPaper from './screens/week4/TestPaper';
+import Health from './screens/week5/Health';
+import ChartKitScreen from './screens/week5/ChartKitScreen';
+import Home from './screens/week6/Home';
+import FlatListExample from './screens/week6/FlatListExample';
 // export default function App() {
 //   return (
 //   // <Ex01/>
@@ -85,11 +89,11 @@ import TestPaper from './screens/week4/TestPaper';
 //     );
 //   }
 
-  export default function App() {
-    return (
-      <Resort />
-    );
-  }
+  // export default function App() {
+  //   return (
+  //     <Resort />
+  //   );
+  // }
 
 //   export default function App() {
 //     return (
@@ -99,4 +103,18 @@ import TestPaper from './screens/week4/TestPaper';
   
 //     );
 //   }
-  
+// export default function App() {
+//   return (
+//     // <Health />
+//    <ChartKitScreen />
+
+//   );
+// }
+ 
+
+export default function App() {
+  return (
+  <Home  />
+  // <FlatListExample/>
+  );
+}
