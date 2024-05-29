@@ -23,6 +23,11 @@ import Health from './screens/week5/Health';
 import ChartKitScreen from './screens/week5/ChartKitScreen';
 import Home from './screens/week6/Home';
 import FlatListExample from './screens/week6/FlatListExample';
+import { NavigationContainer } from '@react-navigation/native';
+import HomeStack from './navigations/HomeStack';
+import BottomTab from './navigations/BottomTab';
+import RootStack from './navigations/RootStack';
+import { AuthContextProvider } from './hooks/AuthContextProvider';
 // export default function App() {
 //   return (
 //   // <Ex01/>
@@ -112,9 +117,28 @@ import FlatListExample from './screens/week6/FlatListExample';
 // }
  
 
+// export default function App() {
+//   return (
+//   <Home  />
+//   // <FlatListExample/>
+//   );
+// }
+
+
 export default function App() {
+  // return (
+  //     <NavigationContainer>
+  //         {/* <HomeStack /> */}
+  //         {/* <BottomTab/> */}
+  //         <RootStack />
+  //     </NavigationContainer>
+  // );
   return (
-  <Home  />
-  // <FlatListExample/>
+    <AuthContextProvider>
+      <NavigationContainer>
+        <RootStack />
+      </NavigationContainer>
+    </AuthContextProvider>
   );
+
 }
